@@ -39,6 +39,13 @@ Computer Science Undergraduate Student passionate about C++ algorithms, full-sta
 
 ---
 
+### 📊 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ani2004pal&color=0077b5&style=for-the-badge" alt="Visitor Count" />
+</p>
+
+---
+
 ### 📫 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-pal-773291281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -49,7 +56,3 @@ Computer Science Undergraduate Student passionate about C++ algorithms, full-sta
 
 ⭐ **If you find my repositories helpful, feel free to star them and reach out!**
 
-### 📊 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ani2004pal&color=0077b5&style=for-the-badge" alt="Visitor Count" />
-</p>
