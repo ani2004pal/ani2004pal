@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Aniket Pal! 👋
 
-<!--
-**ani2004pal/ani2004pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Undergraduate Student passionate about C++ algorithms, full-stack web development, and cloud computing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 About Me
+- 🎓 Pursuing B.Sc. in Computer Science at **Gour Mahavidyalaya**.
+- 🏅 **52 Verified Badges on Credly** across Google Cloud, Security, and AI.
+- 👥 Active member of the **Google Developer Group (GDG)** community.
+
+---
+
+### 🛠️ Tech Stack & Languages
+- **Languages:** C++, C, Python
+- **Web Development:** HTML5, CSS3, React
+- **Cloud & Tools:** Google Cloud Platform (GCP), Git, GitHub, Gemini API
+
+---
+
+### 🔗 Connect With Me
+- 💼 **LinkedIn:** [Aniket Pal](https://www.linkedin.com/in/aniket-pal-773291281)
+- 📜 **Credly Profile:** [52 Verified Badges](https://www.credly.com/users/aniket-pal)
