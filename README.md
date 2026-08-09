@@ -46,13 +46,13 @@ Computer Science Undergraduate Student passionate about C++ algorithms, full-sta
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aniket-pal-773291281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.credly.com/users/aniket-pal.d04d1242/badges/credly"><img src="https://img.shields.io/badge/Credly_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
-> 💡 *Learning by doing — constantly building, experimenting with cloud labs, and writing efficient code.*
+> 🔥 *Learning by doing — constantly building, experimenting with cloud labs, and writing efficient code.*
 
-⭐ **If you find my repositories helpful, feel free to star them and reach out!**
+✨ **If you find my repositories helpful, feel free to star them and reach out!**
 
