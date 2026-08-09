@@ -30,4 +30,6 @@ Computer Science Undergraduate Student passionate about C++ algorithms, full-sta
 
 
 ### 📊 Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=ani2004pal&color=0077b5&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ani2004pal&color=0077b5&style=for-the-badge" alt="Visitor Count" />
+</p>
