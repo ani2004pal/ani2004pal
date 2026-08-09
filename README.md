@@ -29,7 +29,7 @@ Computer Science Undergraduate Student passionate about C++ algorithms, full-sta
 [![Credly](https://img.shields.io/badge/Credly_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/aniket-pal.d04d1242/badges/credly)
 
 
-### 📊 Profile Views
+###📊 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ani2004pal&color=0077b5&style=for-the-badge" alt="Visitor Count" />
 </p>
