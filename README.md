@@ -11,6 +11,14 @@ Computer Science Undergraduate Student passionate about C++ algorithms, full-sta
 
 ---
 
+### 🔭 Current Focus & Learning
+- 🧠 **AI & Machine Learning:** Learning core ML algorithms, Python libraries, and model deployment strategies.
+- 🎨 **Graphics Programming:** Working with **OpenGL** and C++ for real-time rendering and low-level graphics systems.
+- 💻 **Data Structures & Algorithms:** Practicing core C++ concepts, memory management, and problem-solving.
+- ☁️ **Cloud Computing:** Gaining hands-on experience with Google Cloud Platform services through GDG initiatives and labs.
+
+---
+
 ### 🛠️ Primary Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
