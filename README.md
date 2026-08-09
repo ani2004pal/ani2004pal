@@ -19,6 +19,13 @@ Computer Science Undergraduate Student passionate about C++ algorithms, full-sta
 
 ---
 
+
+### 📈 Learning & Growth
+- ⚡ **Advanced DSA (C++ & Python):** Arrays, Trees, Graphs, Dynamic Programming, and algorithm optimization.
+- 🌐 **Full-Stack Systems:** End-to-end web architecture using React, JavaScript, and GCP APIs.
+- 🛡️ **Cloud & Security:** Expanding cloud security and infrastructure knowledge following 52+ Credly badge pathways.
+
+---
 ### 🛠️ Primary Tech Stack
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
