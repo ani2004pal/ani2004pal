@@ -20,4 +20,4 @@ Computer Science Undergraduate Student passionate about C++ algorithms, full-sta
 
 ### 🔗 Connect With Me
 - 💼 **LinkedIn:** [Aniket Pal](https://www.linkedin.com/in/aniket-pal-773291281)
-- 📜 **Credly Profile:** [52 Verified Badges](https://www.credly.com/users/aniket-pal)
+- 📜 **Credly Profile:** [52 Verified Badges](https://www.credly.com/users/aniket-pal.d04d1242)
